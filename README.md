@@ -22,8 +22,9 @@ Le pipeline permet de traiter les données brutes, de construire le graphe, de l
 ## Installation
 1. **Cloner le Référentiel** :
     ```bash
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone https://github.com/Moahmednour/ProtienProja.git
+    cd ProtienProja
+
     ```
 2. **Configurer l'Environnement Virtuel** :
     ```bash
